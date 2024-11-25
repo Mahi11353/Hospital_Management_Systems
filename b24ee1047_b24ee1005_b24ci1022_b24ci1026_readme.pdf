@@ -1,14 +1,14 @@
 # Hospital_Management_Systems
-The Hospital Management System is a project in which our aims is to improving the day to day operations of a hospital and managing patients’ information and records. The system encompasses the following core functions:
+#The Hospital Management System is a project in which our aims is to improving the day to day operations of a hospital and managing patients’ information and records. The system encompasses the following core functions:
 
-1) Patient Registration: This helps in the entering of patients’ demographic details including names, age,gender  and even contact numbers.
+#1) Patient Registration: This helps in the entering of patients’ demographic details including names, age,gender  and even contact numbers.
 
-2) Inpatient and Outpatient Records: It keeps well detailed histories of both the inpatients and out patients with records of the dates when they were admitted and discharged.
+#2) Inpatient and Outpatient Records: It keeps well detailed histories of both the inpatients and out patients with records of the dates when they were admitted and discharged.
 
-3)Interaction of the Doctor and the Patient: This allows users to identify which medical doctors are working with particular clients so as to enhance coordination.
+#3)Interaction of the Doctor and the Patient: This allows users to identify which medical doctors are working with particular clients so as to enhance coordination.
 
-4) Search Facility: This equips library with a strong search item to help in getting some details about patients, their doctors and other related items.
+#4) Search Facility: This equips library with a strong search item to help in getting some details about patients, their doctors and other related items.
 
-5)BMI search : It helps know BMI after giving inputs.
+#5)BMI search : It helps know BMI after giving inputs.
 
-Our intention of this project is to reduce administrative chores in the health care facilities and also maintain correct and relevant records that are readily available.
+#Our intention of this project is to reduce administrative chores in the health care facilities and also maintain correct and relevant records that are readily available.
